@@ -1,0 +1,17 @@
+﻿conditional/*
+save/*
+*.bat
+*.zip
+*~
+*.aux
+*.log
+*.auxlock
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.docx
+en/*.pdf
+he/*.pdf
+*.txt
+*.out
